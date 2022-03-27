@@ -1,7 +1,7 @@
+using System;
 using System.IO;
-using DirectoryFiles;
 
-namespace System
+namespace DirectoryFiles
 {
     public class SuperTarget
     {
